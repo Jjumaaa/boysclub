@@ -1,0 +1,14 @@
+.video-highlights {
+    margin-top: 2rem;
+  }
+  
+  .video-placeholder {
+    background: #eee;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #888;
+    margin-top: 1rem;
+    border-radius: 8px;
+  }

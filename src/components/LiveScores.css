@@ -1,0 +1,13 @@
+.live-scores ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .live-scores li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .score {
+    font-weight: bold;
+    color: #2196f3;
+  }
