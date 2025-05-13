@@ -1,0 +1,14 @@
+.player-profiles {
+    padding: 2rem 1rem;
+  }
+  
+  .player-profiles ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .player-profiles li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+  }
+  
